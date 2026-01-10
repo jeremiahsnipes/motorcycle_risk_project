@@ -1,17 +1,22 @@
 # Notebooks
 
-This folder contains Jupyter notebooks developed for the ANA 699 capstone project.
+This folder contains Jupyter notebooks used for the ANA 699 capstone project.
 
-## Jupyter_Notebook_ANA699A_Final_Project.ipynb
+## How to Run the Notebook
 
-This notebook supports the initial phase of the capstone project and focuses on:
+To use the notebook, you only need **Jupyter Notebook** and the data file.
 
-- Loading and inspecting the motorcycle crash dataset  
-- Understanding data structure, variables, and missing values  
-- Performing basic exploratory analysis  
-- Documenting assumptions and data limitations  
+### What you need
+- Jupyter Notebook (Anaconda or similar is fine)
+- The file: **SoCal_Motorcycle_Crashes.csv**
 
-At this stage of the project, the notebook emphasizes data understanding and analytical planning. Modeling approaches and feature engineering may evolve as the project progresses.
+### What to do
+1. Save **SoCal_Motorcycle_Crashes.csv** anywhere on your computer  
+   (Desktop, Documents, or any folder you prefer)
 
-## Notes
-This notebook is intended for exploratory and preparatory analysis and does not represent final model results.
+2. Open the notebook:
+   Jupyter_Notebook_ANA699A_Final_Project.ipynb
+
+3. Find the code cell that loads the data and update **one line**:
+   ```python
+   file_path = r"C:\path\to\your\SoCal_Motorcycle_Crashes.csv"
