@@ -20,3 +20,5 @@ To use the notebook, you only need **Jupyter Notebook** and the data file.
 3. Find the code cell that loads the data and update **one line**:
    ```python
    file_path = r"C:\path\to\your\SoCal_Motorcycle_Crashes.csv"
+4. Here is an example:
+   ![Loading the dataset in Jupyter Notebook](images/load_data_example.png)
