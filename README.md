@@ -1,4 +1,4 @@
-# Google SLides Link Below
+# Google Slides Link Below
 https://docs.google.com/presentation/d/1JFVPVbKtxCN6o2Gz7wGDBcwucdpTy80m9gMJ7ckju-Q/edit?slide=id.g3b5b789cbf1_0_303#slide=id.g3b5b789cbf1_0_303
 
 # ANA 699 Capstone Project  
