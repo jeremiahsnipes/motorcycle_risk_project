@@ -10,9 +10,9 @@ This repository contains materials for the ANA 699 analytic capstone project. Th
 The analysis uses official crash data derived from California’s Statewide Integrated Traffic Records System (SWITRS) and accessed through the Transportation Injury Mapping System (TIMS).
 
 ## Project Questions  
-- What factors are associated with motorcycle crash injury severity?  
-- How does alcohol involvement relate to crash outcomes?  
-- Are there spatial patterns or locations with consistently higher motorcycle crash risk?  
+1.	Which observable behavioral, environmental, and roadway characteristics are associated with increased odds of severe or fatal motorcycle injury in Southern California crashes?
+2.	Are these injury severity associations consistent across temporal and roadway contexts, or do risk patterns differ by time of day, day of week, and roadway type?
+ 
 
 ## Data Source  
 The data used in this project were obtained from the Transportation Injury Mapping System (TIMS), a public crash data platform developed by the UC Berkeley Safe Transportation Research and Education Center (SafeTREC).
@@ -26,7 +26,8 @@ Motorcycle crash records from the following Southern California counties were co
 - Los Angeles  
 - Riverside  
 - San Bernardino  
-- San Diego  
+- San Diego
+- Orange County
 
 The combined dataset is stored as:
 
